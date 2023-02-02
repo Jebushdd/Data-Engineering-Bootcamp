@@ -1,3 +1,7 @@
+
+networks:
+  postgresdb:
+  
 services:
   pgdatabase:
     image: postgres:13
@@ -24,5 +28,3 @@ services:
       - postgresdb
 volumes:
   pgadmin_conn_data:
-networks:
-  postgresdb:
