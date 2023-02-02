@@ -11,9 +11,9 @@ Seguime en <kbd>[<img title="Mi perfil en LinkedIn" alt="Mi perfil en LinkedIn" 
 <img title="PowerShell" alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="20">
 
 ## Index
-- [Inventario](##-Inventario)
-- [Instrucciones](##-Instrucciones)
-- [Configurar el servidor](##-Configurando-el-servidor-en-PgAdmin)
+- [Inventario](#Inventario)
+- [Instrucciones](#Instrucciones)
+- [Configurar el servidor](#Configurando-el-servidor-en-PgAdmin)
 
 ## Inventario
 Vamos a encontrar los siguientes archivos y directorios:

@@ -10,9 +10,9 @@ Follow me on <kbd>[<img title="Mi perfil en LinkedIn" alt="Mi perfil en LinkedIn
 <kbd><img title="Python" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20"></kbd>
 
 ## Index
-- [Inventory](##-Inventory)
-- [Instructions](##-Instructions)
-- [Server setup](##-Setting-up-server-on-PgAdmin)
+- [Inventory](#Inventory)
+- [Instructions](#Instructions)
+- [Server setup](#Setting-up-server-on-PgAdmin)
 
 ## Inventory
 We have the next files and directories:
