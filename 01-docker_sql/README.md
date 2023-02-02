@@ -1,5 +1,5 @@
 
-Más idiomas: <kbd>[<img title="Leer en inglés" alt="Leer en inglés" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" height="15">](translations/README.es.md)</kbd>  &emsp;
+Más idiomas: <kbd>[<img title="Leer en inglés" alt="Leer en inglés" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" height="15">](translations/README.en.md)</kbd>  &emsp;
 Seguime en <kbd>[<img title="Mi perfil en LinkedIn" alt="Mi perfil en LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15">](https://www.linkedin.com/in/martinezjesusfl/)</kbd>
 
 # Proceso de ETL y Análisis Exploratorio

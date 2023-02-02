@@ -12,7 +12,7 @@ Follow me on <kbd>[<img title="Mi perfil en LinkedIn" alt="Mi perfil en LinkedIn
 ## Index
 - [Inventory](#Inventory)
 - [Instructions](#Instructions)
-- [Server setup](#Setting-up-server-on-PgAdmin)
+- [Configurar el servidor](#Agregar-el-servidor-en-PgAdmin)
 
 ## Inventory
 We have the next files and directories:
@@ -86,7 +86,7 @@ docker run -it `
 ``````
 
 
-## Setting up server on PgAdmin
+## Agregar el servidor en PgAdmin
 
 ### 1. Login
 User: admin@admin.com
