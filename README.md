@@ -8,3 +8,4 @@ Homework and notes on DataTalks Club's Data Engineering Zoomcamp course.
 
 ## Structure
 Notes and homework will be separated by modules
+...
